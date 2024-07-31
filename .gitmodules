@@ -4,3 +4,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/zenqara/user-service.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/zenqara/infra.git
