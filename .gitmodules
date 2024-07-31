@@ -1,0 +1,6 @@
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/zenqara/post-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/zenqara/user-service.git
