@@ -7,3 +7,6 @@
 [submodule "infra"]
 	path = infra
 	url = https://github.com/zenqara/infra.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/Zenqara/notification-service.git
